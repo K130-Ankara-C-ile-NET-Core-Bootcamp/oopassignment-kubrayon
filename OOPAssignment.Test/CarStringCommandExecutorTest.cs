@@ -1,5 +1,9 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OOPAssignment.Class;
+using OOPAssignment.Enums;
+using OOPAssignment.structs;
+
 
 namespace OOPAssignment.Test
 {

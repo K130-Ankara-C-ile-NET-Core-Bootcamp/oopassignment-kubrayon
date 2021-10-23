@@ -2,7 +2,10 @@
 using System.Globalization;
 using System.Text.RegularExpressions;
 using System.Threading;
-
+using OOPAssignment.Class;
+using OOPAssignment.Enums;
+using OOPAssignment.Interfaces;
+using OOPAssignment.structs;
 namespace OOPAssignment
 {
     class Program
